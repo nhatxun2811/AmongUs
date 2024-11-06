@@ -1,5 +1,5 @@
-# AmongUs
-Cách tải game:
+# AmongUsAdventure
+ Cách tải game:
 B1: Tải và giải nén file chứa game AmongUs's Adventure
 B2: Nhấn vào file vừa giải nén và chọn AmongUs's Adventure.exe
 (ShortCut hay Icon Unity đều được) để trải nghiệm game
